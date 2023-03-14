@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-本作者以转行python。
+本作者已转行python。
 <!--
 **dengxuanjin/dengxuanjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
