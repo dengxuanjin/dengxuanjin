@@ -1,6 +1,6 @@
 ### Hi there 👋
-此爬虫用于爬取猫眼电影的作者，评论，评分等等数据!
 
+本作者以转行python。
 <!--
 **dengxuanjin/dengxuanjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
